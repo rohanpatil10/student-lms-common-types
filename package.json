@@ -1,6 +1,6 @@
 {
   "name": "@rohanpatil10/student-lms-common-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common shared TypeScript types for Student LMS projects",
   "type": "module",
   "main": "dist/index.cjs",
